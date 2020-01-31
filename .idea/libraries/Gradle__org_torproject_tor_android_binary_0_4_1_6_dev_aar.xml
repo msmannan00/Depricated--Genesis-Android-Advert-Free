@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.torproject:tor-android-binary:0.4.1.6-dev@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c1ddcba1b3a98bbc4ea5d61ca8fdeaee/tor-android-binary-0.4.1.6-dev/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c1ddcba1b3a98bbc4ea5d61ca8fdeaee/tor-android-binary-0.4.1.6-dev/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: info.pluggabletransports.aptds:apt-meek-obfs4-legacy:1.0.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/59bee53999a42a13923f67464986a4b5/apt-meek-obfs4-legacy-1.0.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/59bee53999a42a13923f67464986a4b5/apt-meek-obfs4-legacy-1.0.7/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

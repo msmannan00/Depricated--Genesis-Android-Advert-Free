@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.mozilla.components:browser-engine-gecko:12.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5d6e0b9276e2ca3b94e6f9200472ef26/browser-engine-gecko-12.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5d6e0b9276e2ca3b94e6f9200472ef26/browser-engine-gecko-12.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mozilla.components/browser-engine-gecko/12.0.0/7505bc29fd49a1cd1e29245f7cd57f52eb670c10/browser-engine-gecko-12.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

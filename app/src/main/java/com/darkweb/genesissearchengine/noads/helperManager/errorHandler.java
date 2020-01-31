@@ -52,7 +52,19 @@ public class errorHandler
         }
 
         String title = helperMethod.getHost(url);
-        return createErrorPage("CODE : " + categoryToString(category) + " <br>TYPE : " + errorToString(error)).replace("$URL",url).replace("$TITLE",title);
+
+        if(url==null){
+            url = "Hidden Error";
+        }
+        if(title==null){
+            title = "Hidden Error";
+        }
+        String replaceUrl = errorToString(error).replace("$URL",url);
+        if(replaceUrl==null){
+            replaceUrl = "Hidden Error";
+        }
+
+        return createErrorPage("CODE : " + categoryToString(category) + " <br>TYPE : " + replaceUrl.replace("$TITLE",title));
     }
 
     private String errorToString(final int error) {

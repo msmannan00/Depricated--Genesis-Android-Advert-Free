@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: info.pluggabletransports.aptds:apt-dispatch-library:1.0.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/71bf4075fd3efc51a9717c0e542a6683/apt-dispatch-library-1.0.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/71bf4075fd3efc51a9717c0e542a6683/apt-dispatch-library-1.0.7/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

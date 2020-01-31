@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.offbynull.portmapper:portmapper:2.0.5@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.offbynull.portmapper/portmapper/2.0.5/46ab93efc91f70dbe1780cd360c821e2af7c1a2c/portmapper-2.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.offbynull.portmapper/portmapper/2.0.5/eafb3d2f2402a15816700b564a34d319492bdaeb/portmapper-2.0.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.offbynull.portmapper/portmapper/2.0.5/1ab3eb6fd86e190e2db71eced0e1ab3f625478ca/portmapper-2.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
