@@ -105,7 +105,7 @@ public class geckoSession extends GeckoSession implements GeckoSession.Permissio
             mCurrentURL = "about:blank";
         }
         isPageLoading = true;
-        if(!var2.equals("about:blank")){
+        if(!var2.equals("about:blank") && isPageLoading){
             mProgress = 5;
         }
 

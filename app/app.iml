@@ -207,5 +207,8 @@
     <orderEntry type="library" name="Gradle: com.daimajia.androidanimations:library:2.3@aar" level="project" />
     <orderEntry type="module" module-name="orbotservice" />
     <orderEntry type="module" module-name="orbotservice" />
+    <orderEntry type="module" module-name="orbotservice" />
+    <orderEntry type="module" module-name="orbotservice" />
+    <orderEntry type="module" module-name="orbotservice" />
   </component>
 </module>

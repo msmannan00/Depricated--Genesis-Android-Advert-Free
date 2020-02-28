@@ -18,7 +18,7 @@
     project.ext.dimen = 'abi'
 
 /*firefox version*/
-    project.ext.firefox_version = "73.0.20191220095035"
+    project.ext.firefox_version = "75.0.20200219095352/"
     project.ext.firefox_channel = "nightly"
 
 /*Application Preferences*/
